@@ -1,0 +1,30 @@
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\bin\Debug\SharpLewtz.exe.config
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\bin\Debug\SharpLewtz.exe
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\bin\Debug\SharpLewtz.pdb
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.csprojResolveAssemblyReference.cache
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.Form1.resources
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.Properties.Resources.resources
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.csproj.GenerateResource.Cache
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.exe
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.pdb
+E:\Coding\Current Programs\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.InputControl.resources
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\bin\Debug\SharpLewtz.exe.config
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.exe
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.pdb
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\bin\Debug\SharpLewtz.exe
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\bin\Debug\SharpLewtz.pdb
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.csprojResolveAssemblyReference.cache
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.Form1.resources
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.InputControl.resources
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.Properties.Resources.resources
+C:\Users\kyle\Desktop\SharpLewtz\SharpLewtz\SharpLewtz\obj\Debug\SharpLewtz.csproj.GenerateResource.Cache
+E:\Coding\Current Programs\SharpLewtz\bin\Debug\SharpLewtz.exe.config
+E:\Coding\Current Programs\SharpLewtz\obj\Debug\SharpLewtz.exe
+E:\Coding\Current Programs\SharpLewtz\obj\Debug\SharpLewtz.pdb
+E:\Coding\Current Programs\SharpLewtz\bin\Debug\SharpLewtz.exe
+E:\Coding\Current Programs\SharpLewtz\bin\Debug\SharpLewtz.pdb
+E:\Coding\Current Programs\SharpLewtz\obj\Debug\SharpLewtz.csprojResolveAssemblyReference.cache
+E:\Coding\Current Programs\SharpLewtz\obj\Debug\SharpLewtz.Form1.resources
+E:\Coding\Current Programs\SharpLewtz\obj\Debug\SharpLewtz.InputControl.resources
+E:\Coding\Current Programs\SharpLewtz\obj\Debug\SharpLewtz.Properties.Resources.resources
+E:\Coding\Current Programs\SharpLewtz\obj\Debug\SharpLewtz.csproj.GenerateResource.Cache
